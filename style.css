@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.jumbotron {
+    margin: 20px;
+    background-image: url(https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi9z4qn1ubhAhUFpFkKHYdeC-MQjRx6BAgBEAU&url=https%3A%2F%2Fphys.org%2Fnews%2F2019-02-space.html&psig=AOvVaw0v6WbXY8TqavjAA7gKqTjC&ust=1556124677719282);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.form-search {
+    display: inline-block;
+    width: 145px;
+}
+
+.search {
+    box-align: center;
+}
+
+table {
+    table-layout: fixed;
+    background-color: black;
+    color: white;
+}

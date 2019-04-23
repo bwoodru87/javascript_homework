@@ -392,7 +392,7 @@ var data = [{
     country: "us",
     shape: "flash",
     durationMinutes: "35 mins",
-    comments: "colorful flashing craft hovers for 30mins &amp;  then flashes violet&#44 followed by dashing to the right &amp; disappearing"
+    comments: "colorful flashing craft hovers for 30mins &amp;  then flashes viovar&#44 followed by dashing to the right &amp; disappearing"
   },
   {
     datetime: "1/4/2010",
